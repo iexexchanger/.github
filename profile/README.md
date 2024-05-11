@@ -1,12 +1,28 @@
-## Hi there 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+<p align="center">
+  <img src="https://github.com/iexexchanger/.github/assets/163338500/88aef4ee-255e-4029-bba3-99ccd02b9d63?raw=true" width="200" alt="Sublime's custom image"/>
+</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## О iEXExchanger
+
+Компания «iEXExchanger FZCO» специализируется на запуске обменных пунктов криптовалют и электронных денег любой сложности. Мы предлагаем профессиональный скрипт для создания и управления автоматическим обменником.
+
+Наша компания разрабатывает коробочные решения и предоставляет полный пакет услуг от быстрого запуска до проекта под ключ.
+
+Используем передовые технологии, которые обеспечивают стабильную работу сервисов обмена.
+
+Наш головной офис находится в ОАЭ.  Активно работаем с 2020 года.
+
+## Документация
+
+У iEXExchanger есть полноценная текстовая и видео документация по работе с проектом, где каждый сможет легко разобраться и настроить обменный пункт.
+ - https://www.youtube.com/@iexexchanger/videos
+ - https://docs.iexexchanger.com/
+
+## Контакты
+
+Контакты для связи со  службой поддержки.
+
+ - admin@iexexchanger.com
+ - https://t.me/iexexchanger
